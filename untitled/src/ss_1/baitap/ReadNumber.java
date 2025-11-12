@@ -12,7 +12,6 @@ public class ReadNumber {
             System.out.println("out of ability");
             return;
         }
-        int for = 12;
 
         String result = readNumber(number);
         System.out.println(result);
